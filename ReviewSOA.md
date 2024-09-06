@@ -13,3 +13,7 @@ Service-Oriented Architecture (SOA) is a design pattern where different services
 1. Decomposing our monolithic application into smaller,independent services.
 
 2. Use message Broker for communication between the communication.
+
+3. Implementing separate services for frequently accessed features, allowing them to be scaled independently.
+
+**Conclusion:** Adopting SOA could address the performance and scaling concerns by enabling modularization, improving scalability, and allowing more efficient resource management
