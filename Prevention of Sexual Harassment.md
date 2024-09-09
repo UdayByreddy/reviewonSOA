@@ -34,3 +34,11 @@ In the event that I experience or witness sexual harassment, I would do the foll
 1) ***Record the occurrence:*** I would make a note of the occurrence (or incidents), including the dates, times, locations, actions taken, and identities of any witnesses. This paperwork may be essential for reporting and substantiating the harassment.
 
 2) ***Report to the Appropriate Authority:*** In accordance with my employer's POSH policy, I would file a formal report of the occurrence right away with the Internal Complaints Committee (ICC) or the human resources (HR) department at work. For the issue to be handled professionally, formal reporting processes must be followed.
+
+### Managing Harassment Cases
+
+***Report the Event:***
+
+     ***To the Committee for Internal Complaints (ICC):*** Inform the ICC or HR division about the harassment, including all relevant details and supporting documentation. It is their duty to carry out an official investigation and take necessary measures.
+
+      ***To a Manager or Supervisor:*** You can first approach a dependable manager or supervisor who can help you with the procedure if you feel uneasy reporting straight to the ICC.
