@@ -17,15 +17,20 @@ A significant legislative and workplace framework called the ***Prevention of Se
 
    Act to establish an ICC. The ICC is in charge of carrying out an impartial investigation and making suggestions to the employer.
 
-4) ***The obligations of employers:***
-    - establishing a secure workplace
+### What kinds of behaviour cause sexual harassment?
 
-    - putting in place a precise POSH policy
+ There are three main categories of conduct that might lead to sexual harassment:
 
-    - putting on frequent awareness and training campaigns
+1) ***Unwelcome Physical Behavior:*** This comprises physical advances that are sexual in character and that the recipient finds offensive, such as improper patting, pinching, or touching.
 
-    - creating an ICC-based grievance redressal process
-    
-    - Taking appropriate action against offenders, such as firing them or filing a lawsui
+2)  ***Sexually Suggestive Remarks or Comments:*** Any verbal abuse that causes discomfort to a person, such as offensive jokes, remarks, or inquiries concerning their looks, personal lives, or sexual preferences.
 
-5) ***Procedure for Filing a Complaint:*** Within three months of the incident, a victim of sexual harassment may submit a written complaint to the ICC. After conducting an investigation, the committee reports its findings and makes suggestions to the employer, who then has to implement them.
+3) Explicit or inappropriate content display refers to the sharing or displaying of objectionable content, including sexually explicit photographs, videos, or messages, both offline and online (emails, social media, etc.).
+
+### What would you do in case you face or witness any incident or repeated incidents of such behaviour? 
+
+In the event that I experience or witness sexual harassment, I would do the following:
+
+1) ***Record the occurrence:*** I would make a note of the occurrence (or incidents), including the dates, times, locations, actions taken, and identities of any witnesses. This paperwork may be essential for reporting and substantiating the harassment.
+
+2) ***Report to the Appropriate Authority:*** In accordance with my employer's POSH policy, I would file a formal report of the occurrence right away with the Internal Complaints Committee (ICC) or the human resources (HR) department at work. For the issue to be handled professionally, formal reporting processes must be followed.
