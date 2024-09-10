@@ -1,7 +1,7 @@
 # Learning Process
 
 The Feynman Technique is a method of learning that involves explaining a concept in simple terms as if teaching it to a child, identifying gaps in understanding, and refining the explanation based on those gaps.
-
+___
 ## Most Interesting Story or Idea from the Video
 
 ### The Role of Focus and Diffuse Modes in Learning
@@ -24,7 +24,7 @@ The speaker provides practical examples of how to use these ideas:
 ### Conclusion
 
 The ultimate message is that mastering the art of learning, which involves understanding how to utilize both focus and diffuse modes, can significantly enrich one's life and learning experiences.
-
+___
 ## Active and Diffused Modes of Thinking
 
 ### Active Mode
@@ -37,13 +37,14 @@ The ultimate message is that mastering the art of learning, which involves under
 - **Characteristics**: Unstructured, free-form, and more holistic. It helps in forming new ideas and seeing the bigger picture.
 - **Example**: Letting your mind wander while taking a walk or doing a routine task, which can lead to sudden insights.
 
+___
 
 1. **Deconstruct the skill**: Break down the skill into smaller, manageable parts.
 2. **Learn enough to self-correct**: Gather a few resources to understand the skill and correct mistakes.
 3. **Remove barriers to practice**: Eliminate distractions and create a conducive environment for practice.
 4. **Practice for at least 20 hours**: Commit to practicing the skill for 20 hours to overcome the initial frustration barrier.
 
-
+___
 
 1. **Set Clear Goals**: Define specific objectives for what you want to achieve in your learning process.
 2. **Create a Study Schedule**: Allocate regular, dedicated time slots for studying and practice.
